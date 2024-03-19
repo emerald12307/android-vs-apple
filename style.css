@@ -1,0 +1,52 @@
+html {
+  background-color: #cabfb6;
+}
+
+body {
+  width: 500px;
+  background-color: white;
+  margin: auto;
+  padding: 20px 50px;
+  font-family: "Open sans";
+}
+
+img {
+  width: 400px;
+  margin: auto 50px;
+}
+
+#etd {
+  background-color: #c9793b;
+  width: 150px;
+  height: 35px;
+  margin: auto;
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  margin-left: 180px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+#android-b {
+  font-size: 15px;
+  background-color: #a4c93b;
+  width: 100px;
+  border-radius: 2px;
+  border: none;
+  padding: 5px;
+  font-weight: bold;
+}
+
+#apple-b {
+  font-size: 15px;
+  background-color: #b6bcca;
+  width: 100px;
+  border-radius: 2px;
+  border: none;
+  padding: 5px;
+  font-weight: bold;
+}
